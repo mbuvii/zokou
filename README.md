@@ -30,7 +30,7 @@ Zokou is a multi-device bot designed to enhance your WhatsApp conversations with
 3. Deploy Zokou
 - **Heroku Deployment:**
 1. If you don’t have a **Heroku** account, click [**here**](https://id.heroku.com/login) to create one.
-2. Click [**here**](https://dashboard.heroku.com/new?template=https://github.com/Luffy2ndAccount/zokou-english-v2) to deploy the bot on **Heroku**.
+2. Click [**here**](https://dashboard.heroku.com/new?template=https://github.com/mbuvii/zokou) to deploy the bot on **Heroku**.
 
 - **Koyeb Deployment:**
 1. If you don’t have a **Koyeb** account, click [**here**](https://app.koyeb.com/auth/signup) to create one.
